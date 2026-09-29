@@ -19,6 +19,7 @@ I'm currently developing my IT skills through university projects, practical exe
 | Repo | What it is |
 |---|---|
 | [ML Spam Detection](https://github.com/jakubd26/ML_Spam_Detection) | Machine learning project for detecting spam SMS messages using different classification methods. |
+| [FitApp AndroidApp](https://github.com/jakubd26/FitApp-AndroidApp) | Mobile Application for workouts |
 | [CHATTEX WebApp](https://github.com/jakubd26/Chattex-WebApp) | Team web application combining chat and forum functionality, with a Python/Flask backend and TypeScript/Vue frontend. |
 | [Scheduling Algorithms Simulations](https://github.com/jakubd26/Sheduling-algorithms-simulations) | Python simulations of scheduling and cache replacement algorithms including FCFS, LCFS, FIFO and LRU. |
 | [Power BI – Crime in LA](https://github.com/jakubd26/PowerBi-project-Crime-in-LA) | Data analysis and visualization project using Power BI and the Crime in Los Angeles dataset. |
